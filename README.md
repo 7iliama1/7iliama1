@@ -16,6 +16,10 @@
 </div>
 
 <br>
+<div id="codewars" align="center">
+
+[![codewars](https://www.codewars.com/users/iliama/badges/small)](https://www.codewars.com/users/iliama) 
+</div>
 
 <div id="stats" align="center">
 

@@ -5,7 +5,6 @@
    
    ![](https://komarev.com/ghpvc/?username=7iliama1)
 </div>
-<br>
 <div id="head" align="center">
 
 ### :hammer_and_wrench: Languages and Tools :

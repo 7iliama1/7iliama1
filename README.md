@@ -33,6 +33,6 @@
 ### :bell: Contacts:
 </div>
 <div id="list" align="center">
-* E-mail: 7iliama1@gmail.com <br>
+* Instagram: https://www.instagram.com/iliama/ <br>
 * Telegram: @iliama
 </div>

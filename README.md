@@ -33,6 +33,6 @@
 ### :bell: Contacts:
 </div>
 <div id="list" align="center">
-* Instagram: https://www.instagram.com/iliama/ <br>
+   * <a href="https://www.instagram.com/iliama/" table="_blank">Instagram</a> <br>
 * Telegram: @iliama
 </div>

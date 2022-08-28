@@ -25,6 +25,11 @@
   
 </div>
 
+<div id="codewars" align="center">
+
+[![codewars](https://www.codewars.com/users/iliama/badges/small)](https://www.codewars.com/users/iliama) 
+</div>
+
 <hr>
 
 <div id="contact" align="center">

@@ -25,10 +25,10 @@
   
 </div>
 
-/** <div id="codewars" align="center">
+<div id="codewars" align="center">
 
- [![codewars](https://www.codewars.com/users/iliama/badges/small)] (https://www.codewars.com/users/iliama) 
-</div> */
+[![codewars](https://www.codewars.com/users/iliama/badges/small)] (https://www.codewars.com/users/iliama) 
+</div> 
 
 <hr>
 

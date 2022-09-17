@@ -33,6 +33,7 @@
 </div>
 
 <hr>
+<hr>
 
 <div id="contact" align="center">
 

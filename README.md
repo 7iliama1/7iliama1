@@ -43,4 +43,3 @@
    <a href="https://t.me/iliama" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111667.png" width="40" height="40"></a> 
    <a href="https://vk.com/rusniaz" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111747.png" width="40" height="40"></a>
 </div>
-   <hr>

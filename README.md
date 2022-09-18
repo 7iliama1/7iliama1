@@ -1,4 +1,10 @@
-<h1 align="center">Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Ruslan</h1>
+<h1 align="center">
+<img src="https://c.tenor.com/xWUVeusufFsAAAAC/galactic-republic-obi-wan-kenobi.gif" width="400" height="150px">
+</h1>
+
+<h1 align="center">
+  <img src="https://images.cooltext.com/5620104.png" alt="Ruslan Niazbaev" />
+</h1>
 
 <div align="center">
    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="200px"/>

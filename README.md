@@ -1,9 +1,6 @@
 <h1 align="center">
 <img src="https://c.tenor.com/xWUVeusufFsAAAAC/galactic-republic-obi-wan-kenobi.gif" width="400" height="150px">
-</h1>
-
-<h1 align="center">
-  <img src="https://images.cooltext.com/5620104.png" alt="Ruslan Niazbaev" />
+<img src="https://images.cooltext.com/5620104.png" alt="Ruslan Niazbaev" />
 </h1>
 
 <div align="center">

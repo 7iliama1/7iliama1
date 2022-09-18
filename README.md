@@ -13,6 +13,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 </div>
 <div id="language" align="center">
+  <img src="https://c.tenor.com/aKKdmZjWlnMAAAAC/yoda-much-to-learn.gif" width="150" height="100"/><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,8 +43,9 @@
 ### :bell: Contacts:
 </div>
 <div id="list" align="center">
- <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" width="50" height="60">
+ <img src="https://c.tenor.com/ylo3zChEC4oAAAAi/downsign-liked.gif" width="100" height="60">
    <a href="https://www.instagram.com/iliama/" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png"width="40" height="40">    </a> 
    <a href="https://t.me/iliama" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111667.png" width="40" height="40"></a> 
    <a href="https://vk.com/rusniaz" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111747.png" width="40" height="40"></a>
+   <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" width="50" height="60">
 </div>

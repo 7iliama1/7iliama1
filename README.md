@@ -1,5 +1,7 @@
 <h1 align="center">
+
 <img src="https://c.tenor.com/xWUVeusufFsAAAAC/galactic-republic-obi-wan-kenobi.gif" width="400" height="150px">
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23111114&textColor=%2306d6a0&aColor=%2306d6a0&hideBorder" alt="Jokes Card"/>
 <img src="https://images.cooltext.com/5620104.png" alt="Ruslan Niazbaev" />
 </h1>
 
@@ -49,3 +51,7 @@
    <a href="https://vk.com/rusniaz" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111747.png" width="40" height="40"></a>
    <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" width="50" height="60">
 </div>
+
+
+
+

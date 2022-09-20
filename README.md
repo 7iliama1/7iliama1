@@ -2,7 +2,9 @@
 
 <img src="https://c.tenor.com/xWUVeusufFsAAAAC/galactic-republic-obi-wan-kenobi.gif" width="400" height="150px">
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23111114&textColor=%2306d6a0&aColor=%2306d6a0&hideBorder" alt="Jokes Card"/>
-<img src="https://images.cooltext.com/5620104.png" alt="Ruslan Niazbaev" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I%27m%20Ruslan%20Niazbaev&height=100&section=header"/>
+</p>
 </h1>
 
 <div align="center">

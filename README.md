@@ -14,7 +14,7 @@
 </div>
 <div id="head" align="center">
 
-### :hammer_and_wrench: Languages and Tools :
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=23&duration=2300&color=FFF4F1&center=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+and+Tools+%3A)](https://git.io/typing-svg)
 </div>
 <div id="language" align="center">
   <img src="https://c.tenor.com/aKKdmZjWlnMAAAAC/yoda-much-to-learn.gif" width="150" height="100"/><br>

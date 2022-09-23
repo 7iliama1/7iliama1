@@ -44,7 +44,7 @@
 
 <div id="contact" align="center">
 
-### :bell: Contacts:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=23&duration=2300&color=FFF4F1&center=true&width=435&lines=%F0%9F%94%94+Contacts+%3A)](https://git.io/typing-svg)
 </div>
 <div id="list" align="center">
  <img src="https://c.tenor.com/ylo3zChEC4oAAAAi/downsign-liked.gif" width="100" height="60">

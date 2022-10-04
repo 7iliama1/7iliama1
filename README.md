@@ -39,7 +39,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=7iliama1&&theme=dark&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD)](https://git.io/streak-stats)
      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7iliama1&show_icons=true&theme=codeSTACKr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7iliama1&show_icons=true&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <div class="wrapper" align="center">
 

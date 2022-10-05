@@ -57,12 +57,12 @@
 </div>
 <div id="list" align="center">
  <img src="https://c.tenor.com/ylo3zChEC4oAAAAi/downsign-liked.gif" width="100" height="60">
-   <a href="https://www.linkedin.com/in/ruslan-niazbaev-b8b0a3221/" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/168/168944.png" width="40" height="40"></a> 
-   <a href="https://www.instagram.com/iliama/" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2110/2110771.png"width="40" height="40">    </a> 
-   <a href="https://music.youtube.com/playlist?list=PLDtgXUXDMkYXeClIXIeoQrG1yMQtdW4er" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/356/356034.png" width="40" height="40"></a> 
-   <a href="https://t.me/iliama" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3771/3771464.png" width="40" height="40"></a> 
-   <a href="https://vk.com/rusniaz" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2549/2549169.png" width="40" height="40"></a>
-   <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" width="50" height="60">
+   <a href="https://www.linkedin.com/in/ruslan-niazbaev-b8b0a3221/" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/168/168944.png" title="LinkedIn" width="40" height="40"></a> 
+   <a href="https://www.instagram.com/iliama/" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2110/2110771.png" title="Instagram" width="40" height="40"></a> 
+   <a href="https://music.youtube.com/playlist?list=PLDtgXUXDMkYXeClIXIeoQrG1yMQtdW4er" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/216/216554.png" title="Youtube Music" width="40" height="40"></a> 
+   <a href="https://t.me/iliama" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3771/3771464.png" title="Telegram" width="40" height="40"></a> 
+   <a href="https://vk.com/rusniaz" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2549/2549169.png" title="Vkontakte" width="40" height="40"></a>
+   <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like,Share,Alisher" width="50" height="60">
 </div>
 
 

@@ -1,6 +1,5 @@
 <h1 align="center">
-
-<img src="https://c.tenor.com/xWUVeusufFsAAAAC/galactic-republic-obi-wan-kenobi.gif" width="400" height="150px">
+<img src="https://user-images.githubusercontent.com/106347442/194650892-29f17ecd-b283-4c9c-bf41-6a112233848a.gif" width="400" height="150px">
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23111114&textColor=%2306d6a0&aColor=%2306d6a0&hideBorder" alt="Jokes Card"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I%27m%20Ruslan%20Niazbaev&height=100&section=header"/>

@@ -2,9 +2,10 @@
 <img src="https://user-images.githubusercontent.com/106347442/194650892-29f17ecd-b283-4c9c-bf41-6a112233848a.gif" width="400" height="150px">
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23111114&textColor=%2306d6a0&aColor=%2306d6a0&hideBorder" alt="Jokes Card"/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I%27m%20Ruslan%20Niazbaev&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I%27m%20Ruslan%20Niazbaev&height=100&width=70&section=header"/>
 </p>
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="70%" height="70%">
+  <img src="https://hsto.org/webt/pc/kl/kx/pcklkx93vt-uz0vgvco63wft12w.gif" alt="scheme" width="70%" height="70%">
 </div>
 
 
@@ -18,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Shade&size=23&duration=2300&color=FFF4F1&center=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+and+Tools+%3A)](https://git.io/typing-svg)
 </div>
 <div id="language" align="center">
-  <img src="https://c.tenor.com/aKKdmZjWlnMAAAAC/yoda-much-to-learn.gif" width="250" height="180"/><br>
+  <!-- <img src="https://c.tenor.com/aKKdmZjWlnMAAAAC/yoda-much-to-learn.gif" width="250" height="180"/><br> -->
   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -40,16 +41,13 @@
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7iliama1&show_icons=true&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<div class="wrapper" align="center">
-
-[![Ruslan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=7iliama1&hide_border=true&theme=react-dark)](https://github.com/7iliama1)
 
 <div align="center">
   
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="70%" height="70%">
 </div>
 
 <div id="contact" align="center">
@@ -65,7 +63,7 @@
    <a href="https://vk.com/rusniaz" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2549/2549169.png" title="Vkontakte" width="40" height="40"></a>
    <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like.Share.Alisher" width="50" height="60">
   <br>
-  <img src="https://user-images.githubusercontent.com/106347442/194652265-d235b69c-3a96-4e0c-8258-97d532698fab.gif" width="400" height="200px"/>
+  <!-- <img src="https://user-images.githubusercontent.com/106347442/194652265-d235b69c-3a96-4e0c-8258-97d532698fab.gif" width="400" height="200px"/> -->
 </div>
 
 

@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/106347442/194650892-29f17ecd-b283-4c9c-bf41-6a112233848a.gif" width="320" height="150px">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23111114&textColor=%2306d6a0&aColor=%2306d6a0&hideBorder" alt="Jokes Card"/>
   
-  <img src="https://hsto.org/webt/pc/kl/kx/pcklkx93vt-uz0vgvco63wft12w.gif" alt="scheme" width="73%" height="70%">
+  <img src="https://hsto.org/webt/pc/kl/kx/pcklkx93vt-uz0vgvco63wft12w.gif" alt="scheme" width="74%" height="70%">
 </div>
 
 

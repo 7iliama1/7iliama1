@@ -27,6 +27,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="PGadmin" alt="PGadmin" width="40" height="40"/>&nbsp;
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-png-transparent.png" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354048/material-ui.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 <div id="codewars" align="center">
 

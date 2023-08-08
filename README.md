@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I%27m%20Ruslan%20Niazbaev&height=100&width=70&section=header"/>
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="84%" height="70%">
+  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </p>
   <img src="https://user-images.githubusercontent.com/106347442/194650892-29f17ecd-b283-4c9c-bf41-6a112233848a.gif" width="400" height="150px">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23111114&textColor=%2306d6a0&aColor=%2306d6a0&hideBorder" alt="Jokes Card"/>

@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/106347442/194650892-29f17ecd-b283-4c9c-bf41-6a112233848a.gif" width="320" height="150px" alt="Obi Wan">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23111114&textColor=%2306d6a0&aColor=%2306d6a0&hideBorder" alt="Jokes Card"/>
   
-  <img src="https://github.com/7iliama1/7iliama1/assets/106347442/9f6830a4-6206-41cb-973a-f704dfcf0795" alt="Yellow scheme" width="80%" height="70%">
+  <img src="https://github.com/7iliama1/7iliama1/assets/106347442/9f6830a4-6206-41cb-973a-f704dfcf0795" alt="Yellow scheme" width="74%" height="70%">
 </div>
 
 <div align="center">

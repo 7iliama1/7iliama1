@@ -22,7 +22,7 @@
   <!-- <img src="https://c.tenor.com/aKKdmZjWlnMAAAAC/yoda-much-to-learn.gif" width="250" height="180"/><br> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" title="HTML5" alt="HTML" width="40" 
-      height="40"/>&nbsp; 
+      height="40"/> 
   </a>
   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

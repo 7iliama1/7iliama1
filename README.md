@@ -70,6 +70,6 @@
    <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like.Share.Alisher" width="50" height="60">
   <br>
   <!-- <img src="https://user-images.githubusercontent.com/106347442/194652265-d235b69c-3a96-4e0c-8258-97d532698fab.gif" width="400" height="200px"/> -->
-</div
+</div>
 
 

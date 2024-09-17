@@ -68,7 +68,7 @@
    <a href="https://t.me/iliama" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3771/3771464.png" title="Telegram" width="40" height="40"></a> 
    <a href="https://vk.com/rusniaz" table="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2549/2549169.png" title="Vkontakte" width="40" height="40"></a>
    <img src="https://c.tenor.com/pPKIRO66zZUAAAAj/like-construktiv.gif" title="Like.Share.Alisher" width="50" height="60">
-  <br>
+  <br
   <!-- <img src="https://user-images.githubusercontent.com/106347442/194652265-d235b69c-3a96-4e0c-8258-97d532698fab.gif" width="400" height="200px"/> -->
 </div>
 
